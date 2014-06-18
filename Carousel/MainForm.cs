@@ -20,7 +20,7 @@ namespace Carousel
         {
             InitializeComponent();
 
-            Bitmap icon = new Bitmap(@"C:\Users\Tyler\Desktop\Carousel\carousel.png");
+            Bitmap icon = new Bitmap(@"..\..\..\carousel.png");
             _notifyIcon.Icon = Icon.FromHandle(icon.GetHicon());
         }
 
