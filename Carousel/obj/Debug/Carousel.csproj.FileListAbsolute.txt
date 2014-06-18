@@ -7,6 +7,12 @@ c:\users\twkrampe\documents\visual studio 2012\Projects\Carousel\Carousel\bin\De
 c:\users\twkrampe\documents\visual studio 2012\Projects\Carousel\Carousel\bin\Debug\Carousel.pdb
 c:\users\twkrampe\documents\visual studio 2012\Projects\Carousel\Carousel\obj\Debug\Carousel.exe
 c:\users\twkrampe\documents\visual studio 2012\Projects\Carousel\Carousel\obj\Debug\Carousel.pdb
-C:\Users\twkrampe\Documents\GitHub\Carousel\Carousel\bin\Debug\Carousel.exe.config
-C:\Users\twkrampe\Documents\GitHub\Carousel\Carousel\obj\Debug\Carousel.exe
-C:\Users\twkrampe\Documents\GitHub\Carousel\Carousel\obj\Debug\Carousel.pdb
+C:\Users\Tyler\Desktop\Carousel\Carousel\bin\Debug\Carousel.exe.config
+C:\Users\Tyler\Desktop\Carousel\Carousel\obj\Debug\Carousel.exe
+C:\Users\Tyler\Desktop\Carousel\Carousel\obj\Debug\Carousel.pdb
+C:\Users\Tyler\Desktop\Carousel\Carousel\obj\Debug\Carousel.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Desktop\Carousel\Carousel\obj\Debug\Carousel.Properties.Resources.resources
+C:\Users\Tyler\Desktop\Carousel\Carousel\obj\Debug\Carousel.csproj.GenerateResource.Cache
+C:\Users\Tyler\Desktop\Carousel\Carousel\bin\Debug\Carousel.exe
+C:\Users\Tyler\Desktop\Carousel\Carousel\bin\Debug\Carousel.pdb
+C:\Users\Tyler\Desktop\Carousel\Carousel\obj\Debug\Carousel.MainForm.resources
