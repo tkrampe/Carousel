@@ -72,7 +72,7 @@ namespace Carousel
             graphics.Dispose();
 
             SaveJpeg(WALLPAPER_PATH, bitmap, 100);
-            
+
             bitmap.Dispose();
 
             foreach (var image in images)
@@ -91,7 +91,16 @@ namespace Carousel
             for (int i = 0; i < count; i++)
             {
                 int index = rnd.Next(0, files.Count);
-                images[i] = new Bitmap(files[index]);
+
+                try
+                {
+                    images[i] = new Bitmap(files[index]);
+                }
+                catch (Exception)
+                {
+                    i--;
+                }
+
                 files.RemoveAt(index);
             }
 
@@ -196,6 +205,6 @@ namespace Carousel
         {
             this.Visible = true;
             _notifyIcon.Visible = false;
-        } 
+        }
     }
 }
